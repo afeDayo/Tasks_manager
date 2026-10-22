@@ -30,8 +30,5 @@ const startServer = async () => {
 
 startServer();
 
-// afedayo_db_user
-// HDprOQ8mnO6JP9ft
-// mongodb+srv://afedayo_db_user:HDprOQ8mnO6JP9ft@cluster0.euhs5aq.mongodb.net/
 
-// cors: cross origin resourse sharing
+
